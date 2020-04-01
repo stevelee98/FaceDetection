@@ -34,7 +34,7 @@ import DateUtil from 'utils/dateUtil';
 import Upload from 'react-native-background-upload'
 import ImagePicker from "react-native-image-picker";
 import moment from 'moment';
-import {RNZaloLogin, RNZBridgeEmitter} from 'react-native-zalo-login';
+// import {RNZaloLogin, RNZBridgeEmitter} from 'react-native-zalo-login';
 import Server from 'config/Server';
 
 const options = {
