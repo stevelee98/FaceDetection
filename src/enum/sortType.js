@@ -1,0 +1,8 @@
+export default SortType = {
+    DATE_MOST_RECENT: 0,
+    DATE_MOST_OLD: 1,
+    PRICE_LOW_TO_HIGH: 2,
+    PRICE_HIGH_TO_LOW: 3,
+    MUCH_DISCOUNT: 4,
+    LITTLE_DISCOUNT: 5
+}

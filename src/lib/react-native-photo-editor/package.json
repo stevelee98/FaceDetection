@@ -1,0 +1,53 @@
+{
+  "_from": "react-native-photo-editor",
+  "_id": "react-native-photo-editor@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-o23XBrRrd8rXpzN5ikVl3+4RU4MwgBpgfC2k7ic5ybM3RC0KCYD0BfTahoRDTpLUpiJFWhfMKZuiXXv8ifjcYw==",
+  "_location": "/react-native-photo-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-photo-editor",
+    "name": "react-native-photo-editor",
+    "escapedName": "react-native-photo-editor",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-photo-editor/-/react-native-photo-editor-1.0.5.tgz",
+  "_shasum": "4c3706cdab9b7ed96fef00bba9fdd662a72efa28",
+  "_spec": "react-native-photo-editor",
+  "_where": "/Users/macbook/Desktop/Boot_Company_Projects/2_Thoi_Trang",
+  "author": {
+    "name": "Pranav Raj Singh Chauhan"
+  },
+  "bugs": {
+    "url": "https://github.com/prscX/react-native-photo-editor/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React Native: Native Photo Editor",
+  "devDependencies": {
+    "prettier-pack": "0.0.8"
+  },
+  "homepage": "https://github.com/prscX/react-native-photo-editor.git",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "Apache License 2.0",
+  "main": "RNPhotoEditor.js",
+  "name": "react-native-photo-editor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prscX/react-native-photo-editor.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.5"
+}
