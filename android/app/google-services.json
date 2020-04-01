@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "561347026407",
+    "firebase_url": "https://face-detection-test-27a2d.firebaseio.com",
+    "project_id": "face-detection-test-27a2d",
+    "storage_bucket": "face-detection-test-27a2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561347026407:android:42a7b0b5933454daf17142",
+        "android_client_info": {
+          "package_name": "com.boot.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561347026407-4bboacdimg0991ujdvb1qdfq493boe0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvkoiFQ0xaE45R6vKaaUjSDTDjnugmy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561347026407-4bboacdimg0991ujdvb1qdfq493boe0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561347026407:android:da797a908b7c7d86f17142",
+        "android_client_info": {
+          "package_name": "com.boot.thoitrangaman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561347026407-4bboacdimg0991ujdvb1qdfq493boe0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvkoiFQ0xaE45R6vKaaUjSDTDjnugmy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561347026407-4bboacdimg0991ujdvb1qdfq493boe0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561347026407:android:e45e7a7c7729e3d5f17142",
+        "android_client_info": {
+          "package_name": "com.facerecognize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561347026407-4bboacdimg0991ujdvb1qdfq493boe0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvkoiFQ0xaE45R6vKaaUjSDTDjnugmy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561347026407-4bboacdimg0991ujdvb1qdfq493boe0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
